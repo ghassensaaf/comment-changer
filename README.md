@@ -62,7 +62,7 @@ Rename the file `client_id.json`
 
 ## Run the bot
 
-`node bot.js`
+`node update.js`
 
 At the first run, you'll be prompted in the CLI to visit a Google URL which walks you through the OAuth flow.
 
