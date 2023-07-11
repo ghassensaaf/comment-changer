@@ -10,6 +10,6 @@
   "author": "Shaun D",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "^48.0.0"
+    "googleapis": "^121.0.0"
   }
 }
